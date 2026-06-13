@@ -1,0 +1,8 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="36" fill="#EEFBE4"/>
+  <rect x="44" y="44" width="552" height="332" rx="28" fill="#F8FFF4"/>
+  <circle cx="156" cy="150" r="44" fill="#B9F58B"/>
+  <path d="M96 316L220 204L310 286L382 228L544 316H96Z" fill="#C8F7A4"/>
+  <path d="M96 316L220 204L310 286L382 228L544 316" stroke="#5E8F45" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="320" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#17412A">Sobat Bumi</text>
+</svg>
