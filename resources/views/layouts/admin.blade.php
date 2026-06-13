@@ -8,7 +8,8 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
+<link rel="icon" type="image/png" href="{{ asset('assets/images/logo.png') }}">
+<link rel="shortcut icon" href="{{ asset('assets/images/logo.png') }}" type="image/png">
   <link rel="stylesheet" href="{{ asset('css/admin.css') }}">
 
   @stack('styles')

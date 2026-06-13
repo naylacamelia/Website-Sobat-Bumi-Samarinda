@@ -8,8 +8,8 @@
     <meta name="description" content="@yield('meta_desc', 'Komunitas pelajar peduli lingkungan di Samarinda')">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="icon" type="image/png" href="{{ asset('assets/images/logo/favicon.png') }}">
-    <link rel="shortcut icon" href="{{ asset('assets/images/logo/favicon.png') }}" type="image/png">
+        <link rel="icon" type="image/png" href="{{ asset('assets/images/logo.png') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/images/logo.png') }}" type="image/png">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     @stack('styles')
 </head>
